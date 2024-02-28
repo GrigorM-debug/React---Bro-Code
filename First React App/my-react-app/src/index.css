@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.Card{
+    /* displex: flex; */
+    margin: 0 auto;
+    border: 2px solid black;
+    max-width: 400px;
+    height: auto;
+}
+
+.Card img{
+    max-width: 300px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.Card h2{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0.5em;
+}
+
+.Card .button{
+    border: 1px solid black;
+    background-color: lightblue;
+    padding: 0.5em 1em;
+    border-radius: 0.4em;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    align-self: center;
+    margin: 2em;
+    
+}
