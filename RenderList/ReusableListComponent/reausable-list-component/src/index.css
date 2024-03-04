@@ -1,0 +1,18 @@
+.list-heading{
+  text-align: center;
+  font-size: 2em;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: cyan;
+}
+
+.list-items{
+  font-size: 1.5em;
+  text-align: center;
+  list-style: none;
+}
+
+.list-items:hover li{
+  color: grey;
+  cursor: pointer;
+}
