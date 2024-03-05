@@ -1,0 +1,35 @@
+.counter{
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: lightgrey;
+  max-width: 50%;
+}
+
+.count-text{
+  font-size: 10em;
+  margin-top: 0;
+  margin-bottom: 60px;
+}
+
+button{
+  margin: 0 1.5em;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-weight: bold;
+  padding: 1em;
+  font-size: 2em;
+  margin-bottom: 2em;
+}
+
+.button-increase{
+  background-color: green;
+}
+
+.button-decrease{
+  background-color: yellow;
+}
+
+.button-reset{
+  background-color: red;
+}
